@@ -1,0 +1,16 @@
+{
+  "name": "py-k6",
+  "version": "1.0.0",
+  "description": "> python -m venv py-k6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/k6": "^0.26.1",
+    "k6": "0.0.0"
+  }
+}

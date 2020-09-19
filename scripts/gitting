@@ -1,0 +1,6 @@
+#!/usr/bin/env python3.7
+
+import gitter.entrypoint
+
+gitter.entrypoint.main()
+print('hello')
